@@ -1,0 +1,2 @@
+Este es el manual de mi proyecto hello-world.
+Aquí voy a describir cómo usarlo y qué hace.
